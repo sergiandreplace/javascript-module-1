@@ -1,0 +1,5 @@
+console.log("Hola mundo!")
+console.log("Hola mon!")
+console.log("Hello World!")
+console.log("Ola ke ase!")
+console.log("Hola holita vecinito")
